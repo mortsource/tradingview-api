@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "eventsource": "^5.1.2"
+  }
+}
