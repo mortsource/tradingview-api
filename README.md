@@ -31,7 +31,7 @@ const { NewsFlow } = require('./news');
 NewsFlow('All'); // wow that was easy!
 ```
 
-Sample embed:
+Sample embed:  
 <img src="./docs/readme_newsflow.png" width=500>  
 
 ### [Drawings](./scripts/draw.js) `scripts\draw`
@@ -62,5 +62,5 @@ await deleteLines('MSFT', id); // one line
 await deleteLines('MSFT'); // every line this script drew on MSFT
 ```
 
-Sample chart:
+Sample chart:  
 <img src="./docs/readme_drawing.png" width=500> 
